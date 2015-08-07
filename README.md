@@ -2,7 +2,7 @@ ASTD: Arabic Sentiment Tweets Dataset
 ===============================================
 
 This dataset contains over 10k Arabic sentiment tweets classified into four classes subjective positive, subjective negative,
-subjective mixed, and objective. Also some baseline sentiment analysis experiments are supported with the dataser
+subjective mixed, and objective. Two sets of baseline sentiment analysis experiments are supported with the dataset.
 
 Contents:
 ---------

@@ -57,7 +57,7 @@ In order to replicate the splits with different test/train/validation precent
 
 
 In order to try new classifier just add it to "classifiers" list in Definations.py
-then run experiment.py
+then run twitter_experiments.py
    
 Reference
 ---------
